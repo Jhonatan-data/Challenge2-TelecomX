@@ -29,7 +29,7 @@ Telecom X enfrenta una alta tasa de cancelación de clientes y busca comprender 
 
 ### 📊 Evasión según Tipo de Contrato
 
-![Evasión por Contrato](images/EvasionsegunTipodeContrato.png) 
+![Evasión por Contrato](images/EvasionsegunTipodeContrato2.png) 
 
 ### 📊 Matriz de Correlación
 
